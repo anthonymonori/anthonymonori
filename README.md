@@ -16,7 +16,7 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 ### Working experience
 
-![Skyscanner logo]()
+#### Skyscanner Ltd.
 
 ##### Current: Senior Software Engineer, Individual Contributor
 Working with multiple full-stack feature squads and helping them achieve their goal. Assuming the role of the Android expert, but focusing on iOS and backend as well. 
@@ -29,7 +29,7 @@ Working in full-stack feature squads developing new features for the main mobile
 
 ---
 
-![LEGO logo]()
+#### The LEGO Group (LEGO System A/S)
 
 ##### 2017 jan - 2018 may: Software Developer
 Part of the core Android team working on important consumer facing mobile projects. Assuming ownership of internal mobile SDKs and the mobile continuous integration pipeline for Android.
