@@ -8,8 +8,8 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 ### About me
 
-- 🔭 My current part time project is [@thirdwavelist](https://github.com/thirdwavelist), 
-- 🌱 I’m currently learning how to be a better writer
+- 🔭 My current part time project is [@thirdwavelist](https://github.com/thirdwavelist)
+- 🌱 I’m currently learning how to be a better [writer](https://www.monori.me/blog/)
 - 💬 Ask me about: coffee, Android, AWS
 - 📫 How to reach me: [Twitter](https://www.twitter.com/hifromantal)
 - 😄 Pronouns: he/him
@@ -18,7 +18,7 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 #### Skyscanner Ltd.
 
-##### Current: Senior Software Engineer, Individual Contributor
+##### 2020 sept - current: Senior Software Engineer, Individual Contributor
 Working with multiple full-stack feature squads and helping them achieve their goal. Assuming the role of the Android expert, but focusing on iOS and backend as well. 
 
 ##### 2019 jun - 2020 sept: Senior Software Engineer, Engineering Manager
