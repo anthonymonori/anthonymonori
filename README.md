@@ -20,6 +20,8 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 ##### 2021 may - present: Senior Software Engineer
 
+---
+
 #### Skyscanner Ltd.
 
 ##### 2018 jun - 2021 may: Senior Software Engineer
