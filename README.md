@@ -10,30 +10,25 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 - 🔭 My current part time project is [@thirdwavelist](https://github.com/thirdwavelist)
 - 🌱 I’m currently learning how to be a better [writer](https://www.monori.me/blog/)
-- 💬 Ask me about: coffee, Android, AWS
+- 💬 Ask me about: coffee, Android
 - 📫 How to reach me: [Twitter](https://www.twitter.com/hifromantal)
 - 😄 Pronouns: he/him
 
 ### Working experience
 
+#### Transferwise Ltd.
+
+##### 2021 may - present: Senior Software Engineer
+
 #### Skyscanner Ltd.
 
-##### 2020 sept - current: Senior Software Engineer, Individual Contributor
-Working with multiple full-stack feature squads and helping them achieve their goal. Assuming the role of the Android expert, but focusing on iOS and backend as well. 
-
-##### 2019 jun - 2020 sept: Senior Software Engineer, Engineering Manager
-Assuming the role of the engineering manager / tech lead for a full-feature squad working and developing new mobile experiences.
-
-##### 2018 jun - 2019 jun: Software Engineer II
-Working in full-stack feature squads developing new features for the main mobile clients of Skyscanner. Assuming the role of the Android expert within the team and interim squad engineering lead.
+##### 2018 jun - 2021 may: Senior Software Engineer
+Worked with multiple full-stack feature teams on shipping product features for the mobile app at Skyscanner. Assumed the role of Android expert, but with a stint of Engineering Management (2019-2020) for a team of 6 engineers.
 
 ---
 
 #### The LEGO Group (LEGO System A/S)
 
-##### 2017 jan - 2018 may: Software Developer
-Part of the core Android team working on important consumer facing mobile projects. Assuming ownership of internal mobile SDKs and the mobile continuous integration pipeline for Android.
-
-##### 2013 aug - 2017 jan: Associate Developer
-Assumed multiple roles over the years in the frontend-, backend-  and infrastructure teams. Later part of the new mobile development team focusing on native consumer-facing apps.
+##### 2013 aug - 2018 may: Software Developer
+Assumed multiple roles over the years in the frontend-, backend-  and infrastructure teams. Later part of the new mobile development team focusing on native consumer-facing apps, internal mobile SDKs and mobile continuous integration platform.
 
