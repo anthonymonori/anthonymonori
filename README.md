@@ -16,21 +16,8 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 ### Working experience
 
-#### Transferwise Ltd.
+- Currently: [Wise Ltd.](https://github.com/transferwise)
 
-##### 2021 may - present: Senior Software Engineer
+- Previously: [Skyscanner Ltd.](https://github.com/skyscanner), [LEGO System A/S](https://github.com/thelegogroup)
 
----
-
-#### Skyscanner Ltd.
-
-##### 2018 jun - 2021 may: Senior Software Engineer
-Worked with multiple full-stack feature teams on shipping product features for the mobile app at Skyscanner. Assumed the role of Android expert, but with a stint of Engineering Management (2019-2020) for a team of 6 engineers.
-
----
-
-#### The LEGO Group (LEGO System A/S)
-
-##### 2013 aug - 2018 may: Software Developer
-Assumed multiple roles over the years in the frontend-, backend-  and infrastructure teams. Later part of the new mobile development team focusing on native consumer-facing apps, internal mobile SDKs and mobile continuous integration platform.
-
+_Read more about me over at [LinkedIn](https://www.linkedin.com/in/hifromantal/)._
