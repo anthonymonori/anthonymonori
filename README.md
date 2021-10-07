@@ -18,6 +18,6 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 - Currently: [Wise Ltd.](https://github.com/transferwise)
 
-- Previously: [Skyscanner Ltd.](https://github.com/skyscanner), [LEGO System A/S](https://github.com/thelegogroup)
+- Previously: [Skyscanner Ltd.](https://github.com/skyscanner), [LEGO System A/S](https://github.com/lego)
 
 _Read more about me over at [LinkedIn](https://www.linkedin.com/in/hifromantal/)._
