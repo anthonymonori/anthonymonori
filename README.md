@@ -9,9 +9,9 @@ I'm a software engineer with an interest in building large scale consumer facing
 ### About me
 
 - 🔭 My current part time project is [@thirdwavelist](https://github.com/thirdwavelist)
-- 🌱 I’m currently learning how to be a better [writer](https://www.monori.me/blog/)
-- 💬 Ask me about: coffee, mobile development, and architecture
-- 📫 How to reach me: [Twitter](https://www.twitter.com/hifromantal)
+- 🌱 I’m currently learning how to be a better writer on [Hashnode](https://monori.me/)
+- 💬 Ask me about: coffee, mobile development, and urban design
+- 📫 How to reach me: <a rel="me" href="https://androiddev.social/@antal">Mastodon</a>
 - 😄 Pronouns: he/him
 
 ### Working experience
@@ -20,4 +20,4 @@ I'm a software engineer with an interest in building large scale consumer facing
 
 - Previously: [Skyscanner Ltd.](https://github.com/skyscanner), [LEGO System A/S](https://github.com/lego)
 
-_Read more about me over at [LinkedIn](https://www.linkedin.com/in/hifromantal/)._
+_Read more about me over at [Polywork](https://www.polywork.com/antal)._
